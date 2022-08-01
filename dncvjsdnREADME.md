@@ -1,3 +1,0 @@
-# SampleWebAppc dsc 
-/sc
-'.ca
