@@ -1,0 +1,18 @@
+dseudemo   smal
+
+mdi-ucanapply  smal
+
+mdurohtak   micro
+
+recruit   midiyam
+
+ucanapply-dev   midiyam
+ucanapplytrb-dev  micro
+
+
+
+---------------------
+
+uca-demo1   micro
+
+uca-jbnsts-1   smal
