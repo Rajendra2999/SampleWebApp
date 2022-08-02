@@ -16,3 +16,5 @@ ucanapplytrb-dev  micro
 uca-demo1   micro
 
 uca-jbnsts-1   smal
+
+cshjcha
